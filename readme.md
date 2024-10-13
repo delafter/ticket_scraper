@@ -41,6 +41,6 @@ Este proyecto es un scraper de productos diseñado para extraer información de 
   
 - Asegúrate de cumplir con los requisitos legales y éticos al realizar scraping en sitios web.
   
-- Reemplazar `tu_usuario` y `tu_repositorio` con los valores correspondientes. ¡Así quedará más claro para quien use tu proyecto! Si necesitas más cambios, no dudes en decírmelo.
+- Reemplaza `tu_usuario` y `tu_repositorio` con los valores correspondientes. ¡Así quedará más claro para quien use tu proyecto! Si necesitas más cambios, no dudes en decírmelo.
 
 
