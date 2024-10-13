@@ -1,0 +1,19 @@
+{
+    "name": "manu/ticket_scraper",
+    "autoload": {
+        "psr-4": {
+            "Manu\\TicketScraper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manu",
+            "email": "delafter@gmail.com"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/http-client": "^6.0"
+    }
+}
