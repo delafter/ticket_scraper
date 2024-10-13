@@ -23,24 +23,24 @@ Este proyecto es un scraper de productos diseñado para extraer información de 
    git clone https://github.com/tu_usuario/tu_repositorio.git
 
 2. Navega al directorio del proyecto:
-  ```bash
+ 
   cd tu_repositorio
 
 3. Instala las dependencias utilizando Composer:
-  ```bash
+  
   composer install
 
 ## USO
 
 1. Para ejecutar el scraper y generar un archivo HTML con la salida, utiliza el siguiente comando:
-  ```bash
+  
   php scraper.php > nombre_del_archivo.html
   Reemplaza nombre_del_archivo.html por el nombre que desees para el archivo de salida.
 
 ## Notas
-  ```bash
-  Asegúrate de cumplir con los requisitos legales y éticos al realizar scraping en sitios web.
   
-  Reemplazar `tu_usuario` y `tu_repositorio` con los valores correspondientes. ¡Así quedará más claro para quien use tu proyecto! Si necesitas más cambios, no dudes en decírmelo.
+- Asegúrate de cumplir con los requisitos legales y éticos al realizar scraping en sitios web.
+  
+- Reemplaza `tu_usuario` y `tu_repositorio` con los valores correspondientes. ¡Así quedará más claro para quien use tu proyecto! Si necesitas más cambios, no dudes en decírmelo.
 
 
