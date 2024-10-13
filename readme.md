@@ -27,7 +27,7 @@ Este proyecto es un scraper de productos diseñado para extraer información de 
   cd tu_repositorio
 
 3. Instala las dependencias utilizando Composer:
-  
+  ```bash
   composer install
 
 ## USO
