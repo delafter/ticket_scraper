@@ -27,10 +27,8 @@ Este proyecto es un scraper de productos diseñado para extraer información de 
   cd tu_repositorio
 
 3. Instala las dependencias utilizando Composer:
-  ```bash
+  
   composer install
-    ```
-
 
 ## USO
 
@@ -43,6 +41,6 @@ Este proyecto es un scraper de productos diseñado para extraer información de 
   
 - Asegúrate de cumplir con los requisitos legales y éticos al realizar scraping en sitios web.
   
-- Reemplaza `tu_usuario` y `tu_repositorio` con los valores correspondientes. ¡Así quedará más claro para quien use tu proyecto! Si necesitas más cambios, no dudes en decírmelo.
+- Reemplazar `tu_usuario` y `tu_repositorio` con los valores correspondientes. ¡Así quedará más claro para quien use tu proyecto! Si necesitas más cambios, no dudes en decírmelo.
 
 
